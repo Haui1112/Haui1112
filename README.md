@@ -2,9 +2,9 @@
 - 👀 I’m interested in making the world a better place.
 - 🌱 I’m currently learning how to live on this planet.
 - 💞️ I’m looking to collaborate on projects that are aimed at progressing the human experience.
-- 📫 How to reach me haui@gifted-minecraft.com or @haui:matrix.giftedmc.com on matrix (e.g. element).
-
-I work on many git forges. You can find an archive of most of my public projects on https://forge.giftedmc.com/haui.
+- 📫 Send me messages: (email) haui@gifted-minecraft.com or  (matrix) @haui:matrix.giftedmc.com on matrix (e.g. element).
+- Read my rants: (mastodon) [mastodon.giftedmc.com/haui](https://mastodon.giftedmc.com/@haui)
+- See all of my public work: (forgejo) https://forge.giftedmc.com/haui.
 
 <!---
 Haui1112/Haui1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
