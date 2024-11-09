@@ -2,7 +2,7 @@
 - 👀 Interested in FOSS and freedom inducing software.
 - 🌱 Currently learning u-boot and RISC-V development.
 - 💞️ I love collaborating to build awesome FOSS software.
-- 📫 Send me messages: (email) haui@gifted-minecraft.com or  (matrix) @haui:matrix.giftedmc.com on matrix (e.g. element).
+- 📫 Send me messages: (email) haui@gifted-minecraft.com or  (matrix) [@haui:matrix.giftedmc.com](https://matrix.to/#/@haui:matrix.giftedmc.com) on matrix (e.g. element).
 - Read my rants: (mastodon) [mastodon.giftedmc.com/haui](https://mastodon.giftedmc.com/@haui)
 - See all of my public work: (forgejo) https://forge.giftedmc.com/haui.
 
