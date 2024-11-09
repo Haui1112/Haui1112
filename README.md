@@ -1,7 +1,7 @@
-- 👋 Hi, I’m [@Haui1112](https://github.com/Haui1112) (Haui)
-- 👀 I’m interested in making the world a better place.
-- 🌱 I’m currently learning how to live on this planet.
-- 💞️ I’m looking to collaborate on projects that are aimed at progressing the human experience.
+- 👋 Hi, I’m [@Haui1112](https://github.com/Haui1112) (Haui), admin and dev from germany.
+- 👀 Interested in FOSS and freedom inducing software.
+- 🌱 Currently learning u-boot and RISC-V development.
+- 💞️ I love collaborating to build awesome FOSS software.
 - 📫 Send me messages: (email) haui@gifted-minecraft.com or  (matrix) @haui:matrix.giftedmc.com on matrix (e.g. element).
 - Read my rants: (mastodon) [mastodon.giftedmc.com/haui](https://mastodon.giftedmc.com/@haui)
 - See all of my public work: (forgejo) https://forge.giftedmc.com/haui.
